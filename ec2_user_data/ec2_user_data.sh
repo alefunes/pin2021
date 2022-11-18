@@ -49,4 +49,4 @@ sudo apt update
 # Install Terraform
 sudo apt install terraform
 
-git clone https://github.com/alefunes/pin2021.gif 
+git clone https://github.com/alefunes/pin2021.git
